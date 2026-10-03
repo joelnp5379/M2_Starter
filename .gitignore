@@ -1,0 +1,10 @@
+Code snippet
+# Ignore everything in the root directory
+/*
+
+# Allow specific directories and files required for submission
+!/src/
+!/include/
+!/tests/
+!/DESIGN.md
+!/.gitignore
