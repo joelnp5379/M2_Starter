@@ -1,0 +1,1 @@
+/usr/local/bin/c++ -Wl,--dependency-file=CMakeFiles/student_tests.dir/link.d CMakeFiles/student_tests.dir/tests/student_tests.cpp.o -o student_tests  libaiws_m2.a
